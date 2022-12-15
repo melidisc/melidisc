@@ -2,7 +2,7 @@
  
  👀 I’m interested in AI, ML with applications in NLP and Speech. 
  
- 🏡💻 Have worked mostly within the Conversational AI realm, in Named Entity Recognition, Natural Language Generation, Speech Emotion Recognition, Voice Antispoofing.
+ 🏡 💻 Have worked mostly within the Conversational AI realm, in Named Entity Recognition, Natural Language Generation, Speech Emotion Recognition, Voice Antispoofing.
  
  🌱 I’m currently learning how to be a dad 👨 + 👶 = 🏃 - 😴
  
